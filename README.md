@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Me segue nas redes abaixo!
+  ### Me encontre nas redes abaixo!
  
 <div>
   <a href="https://instagram.com/wesleymatoos_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,5 +20,5 @@
    <a href="https://twitter.com/wesleymatoos_" target="_blank"><img src="https://img.shields.io/twitter/follow/wesleymatoos_?style=social"></a>
  <a href = "mailto:wesleydematos3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
  
-  ![Animação de cobra](https://github.com/wesleydematos/wesleydematos/blob/output/github-contribution-grid-snake.svg)
+  
 
