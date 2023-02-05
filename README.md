@@ -7,8 +7,6 @@
 
 ![texto](https://raw.githubusercontent.com/cunham4theus/portfoliov3/main/assets/Img/ezgif.com-gif-maker.gif) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wesleydematos&bg_color=000404&color=006256&line=006256&point=A4E0D9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  <div>
   <a href="https://github.com/wesleydematos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydematos&layout=compact&langs_count=6&theme=tokyonight"/>
