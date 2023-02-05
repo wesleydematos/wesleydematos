@@ -9,6 +9,8 @@
 
 ![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleydematos&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydematos&layout=compact)](https://github.com/wesleydematos/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
